@@ -8,5 +8,5 @@
   ![pexels-matthew-barra-813011](https://user-images.githubusercontent.com/57980370/189792307-639d4d5f-cf34-4947-9ec0-54e5b08e7080.jpg)
 
   * 내용 : matplotlib를 활용한 데이터 시각화
-  * 데이터 시각화로 [이동]('./notebook7c6a119a77.ipynb')
+  * 데이터 시각화로 [이동](./notebook7c6a119a77.ipynb)
   
