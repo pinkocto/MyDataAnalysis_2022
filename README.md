@@ -11,4 +11,3 @@
   * 데이터 시각화로 [이동](./220914_titanic.ipynb)
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkocto)](https://github.com/깃허브아이디/github-readme-stats)
