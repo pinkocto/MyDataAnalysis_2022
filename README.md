@@ -1,7 +1,7 @@
 # 2022년 나의 데이터 분석 
-### 2022년 데이터에 대한 분석 내용 정리
+> 2022년 데이터에 대한 분석 내용 정리
 
-## [Titanic 데이터 분석]
+## [01. Titanic 데이터 분석]
   * 데이터 참조 : https://www.kaggle.com/competitions/titanic/data
   * 날짜 : 2022/09/13 ~ 2022/09/14
   * titanic
