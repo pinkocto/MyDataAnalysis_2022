@@ -11,3 +11,8 @@
   * 데이터 시각화로 [이동](./220914_titanic.ipynb)
   
   
+ ## [02. California Housing Prices]
+  * 데이터 참조 : https://www.kaggle.com/datasets/camnugent/california-housing-prices
+  * 날짜 : 2022/0916 ~
+  
+  
