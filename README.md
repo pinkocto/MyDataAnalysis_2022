@@ -9,7 +9,6 @@
 
   * 내용 : matplotlib과 seaborn을 활용한 데이터 시각화
   * [Data Visualization](./220914_titanic.ipynb)
-  * ![image](https://hosting.photobucket.com/albums/ii254/PixelBerryPie/inthebookcase/titanic-distress-rockets-april-15.png)
   
   
  ## [02. California Housing Prices]
