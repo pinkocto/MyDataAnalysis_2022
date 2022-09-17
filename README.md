@@ -8,7 +8,7 @@
   ![pexels-matthew-barra-813011](https://user-images.githubusercontent.com/57980370/189792307-639d4d5f-cf34-4947-9ec0-54e5b08e7080.jpg)
 
   * 내용 : matplotlib과 seaborn을 활용한 데이터 시각화
-  * 데이터 시각화로 [이동](./220914_titanic.ipynb)
+  * [Data Visualization](./220914_titanic.ipynb)
   
   
  ## [02. California Housing Prices]
