@@ -15,4 +15,9 @@
   * 데이터 참조 : https://www.kaggle.com/datasets/camnugent/california-housing-prices
   * 날짜 : 2022/0916 ~
   
+  The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
+  
+  * [EDA]()
+  * [Data Preprocessing]()
+  * [Modeling]()
   
