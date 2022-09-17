@@ -2,6 +2,13 @@
 > 2022년 데이터에 대한 분석 내용 정리
 
 ## [01. Titanic 데이터 분석]
+use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+On April 15, 1912, during voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
   * 데이터 참조 : https://www.kaggle.com/competitions/titanic/data
   * 날짜 : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
