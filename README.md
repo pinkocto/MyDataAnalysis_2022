@@ -13,7 +13,6 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * 날짜 : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
   * ![4519944037_212b6d86b5_o](https://user-images.githubusercontent.com/57980370/190842538-49ec0b2e-5295-41a6-b800-55326c63e863.jpg)
-  \
   * matplotlib과 seaborn을 활용한 데이터 시각화
   * [Data Visualization](./220914_titanic.ipynb)
   
