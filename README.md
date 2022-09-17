@@ -24,6 +24,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
   
   * 데이터 참조 : https://www.kaggle.com/datasets/camnugent/california-housing-prices
   * 날짜 : 2022/0916 ~
+  
   * [EDA]()
   * [Data Preprocessing]()
   * [Modeling]()
