@@ -14,8 +14,8 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: `"what sorts of people were more likely to survive?”` using passenger data (ie name, age, gender, socio-economic class, etc).
 
-  * 데이터 참조 : https://www.kaggle.com/competitions/titanic/data
-  * 날짜 : 2022/09/13 ~ 2022/09/14
+  * Data ref : https://www.kaggle.com/competitions/titanic/data
+  * Date : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
   * ![4519944037_212b6d86b5_o](https://user-images.githubusercontent.com/57980370/190842538-49ec0b2e-5295-41a6-b800-55326c63e863.jpg)
   
@@ -27,8 +27,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
  ## [02. California Housing Prices]
   The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
   
-  * 데이터 참조 : https://www.kaggle.com/datasets/camnugent/california-housing-prices
-  * 날짜 : 2022/0916 ~
+  * Data ref : https://www.kaggle.com/datasets/camnugent/california-housing-prices
+  * Date : 2022/0916 ~
   
   * [EDA]()
   * [Data Preprocessing]()
