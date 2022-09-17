@@ -30,7 +30,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * Data ref : https://www.kaggle.com/datasets/camnugent/california-housing-prices
   * Date : 2022/0916 ~
   
-  * [EDA]()
+  * [EDA]() using folium and Seaborn library
   * [Data Preprocessing]()
   * [Modeling]()
   
