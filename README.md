@@ -9,6 +9,8 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: <span style="color:orange">"what sorts of people were more likely to survive? </span>” using passenger data (ie name, age, gender, socio-economic class, etc).
 
+<font color="red">Status: **Not yet implemented**</font>
+
   * 데이터 참조 : https://www.kaggle.com/competitions/titanic/data
   * 날짜 : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
