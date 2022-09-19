@@ -17,19 +17,19 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * Data ref : https://www.kaggle.com/competitions/titanic/data
   * Date : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
-  <img src = "https://user-images.githubusercontent.com/57980370/190842538-49ec0b2e-5295-41a6-b800-55326c63e863.jpg" width="100%" height="100%>
+  <img src = "https://user-images.githubusercontent.com/57980370/190991349-d3622cd3-106e-42ed-a5df-4188cc827ac0.jpg" width="100%" height="100%>
   
   * [Data Visualization](./220914_titanic.ipynb) using Matplotlib and Seaborn library
   * [Data Preprocessing]()
   * [Modeling]()
-  
+
   
  ## [02. California Housing Prices]
   The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
   
   * Data ref : https://www.kaggle.com/datasets/camnugent/california-housing-prices
   * Date : 2022/09/16 ~
-  <img src = "https://user-images.githubusercontent.com/57980370/190990581-e052af28-74e4-4e7b-a09e-41be03c3662d.jpg" width="63%" height="80%">
+  <img src = "https://user-images.githubusercontent.com/57980370/190990581-e052af28-74e4-4e7b-a09e-41be03c3662d.jpg" width="63%" height="75%">
        
 
   
