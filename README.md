@@ -29,6 +29,9 @@ In this challenge, we ask you to build a predictive model that answers the quest
   
   * Data ref : https://www.kaggle.com/datasets/camnugent/california-housing-prices
   * Date : 2022/09/16 ~
+  <img src = "https://user-images.githubusercontent.com/57980370/190990581-e052af28-74e4-4e7b-a09e-41be03c3662d.jpg" width="100%" height="100%">
+       
+
   
   * [Data Visualization]() using folium and Seaborn library
   * [Data Preprocessing]()
