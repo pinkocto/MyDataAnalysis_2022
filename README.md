@@ -21,7 +21,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
   
   * [Data Visualization](./titanic/220914_titanic_viz.ipynb) using Matplotlib and Seaborn library
-  * [Data Preprocessing]()
+  * [Data Preprocessing](./titanic/titanic_preprocessing.ipynb)
   * [Modeling]()
 
   
