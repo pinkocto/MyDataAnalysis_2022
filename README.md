@@ -40,5 +40,5 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * Data ref : https://www.kaggle.com/competitions/spaceship-titanic/data
   
   ![pexels-pixabay-41951](https://user-images.githubusercontent.com/57980370/190976035-a31e9d74-44dc-4e34-843e-ff6c47475ed9.jpg)
-  <img src = "https://user-images.githubusercontent.com/57980370/190976035-a31e9d74-44dc-4e34-843e-ff6c47475ed9.jpg" width="100%" height="70%">
+  <img src = "https://user-images.githubusercontent.com/57980370/190976035-a31e9d74-44dc-4e34-843e-ff6c47475ed9.jpg" width="80%" height="70%">
 
