@@ -28,7 +28,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
   The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. Be warned the data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
   
   * Data ref : https://www.kaggle.com/datasets/camnugent/california-housing-prices
-  * Date : 2022/0916 ~
+  * Date : 2022/09/16 ~
   
   * [Data Visualization]() using folium and Seaborn library
   * [Data Preprocessing]()
