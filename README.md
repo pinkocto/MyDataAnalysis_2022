@@ -20,7 +20,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
   <img src = "https://user-images.githubusercontent.com/57980370/190991695-e20a20bf-d19a-4b23-85a8-2d3e923677ba.jpg">
 
   
-  * [Data Visualization](.titanic/220914_titanic_viz.ipynb) using Matplotlib and Seaborn library
+  * [Data Visualization](./titanic/220914_titanic_viz.ipynb) using Matplotlib and Seaborn library
   * [Data Preprocessing]()
   * [Modeling]()
 
