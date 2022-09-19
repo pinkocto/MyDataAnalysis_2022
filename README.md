@@ -34,3 +34,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * [Data Preprocessing]()
   * [Modeling]()
   
+  
+  ## [03. Spaceship Titanic]
+  
+  * Data ref : https://www.kaggle.com/competitions/spaceship-titanic/data
+  
