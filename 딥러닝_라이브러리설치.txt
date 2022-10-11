@@ -20,6 +20,7 @@ conda deactivate
 
 05. 기본 라이브러리를 설치
 [설치] pip install [이름1] [이름2] [이름3]
+pip install numpy sklearn tensorflow matplotlib pandas jupyter
 
 < python 3.8 > 
 sklearn
