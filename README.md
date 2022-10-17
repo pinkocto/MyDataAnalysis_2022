@@ -17,7 +17,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
   * Data ref : https://www.kaggle.com/competitions/titanic/data
   * Date : 2022/09/13 ~ 2022/09/14
   * ***Sinking of the Titanic(14–15 April 1912)***
-  <img src = "https://user-images.githubusercontent.com/57980370/190991695-e20a20bf-d19a-4b23-85a8-2d3e923677ba.jpg">
+  <img src = "https://user-images.githubusercontent.com/57980370/190991695-e20a20bf-d19a-4b23-85a8-2d3e923677ba.jpg" width=60%>
 
   
   * [Data Visualization](./titanic/220914_titanic_viz.ipynb) using Matplotlib and Seaborn library
