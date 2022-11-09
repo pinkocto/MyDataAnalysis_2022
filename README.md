@@ -1,7 +1,7 @@
 # 💥 2022 My Data Analysis
-> 2022년 데이터에 대한 분석 내용 정리
+> Summary of 2022 data analysis
 
-## [01. Titanic 데이터 분석]
+## [01. Titanic ]
 ***[Challenge]***
 
 use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
